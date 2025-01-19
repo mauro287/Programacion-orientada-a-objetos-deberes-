@@ -19,6 +19,7 @@ class Perro(Animal):
 class Gato(Animal):
     def hacer_sonido(self):
         print("¡Miau!")
+# uso de codigo
 mi_perro = Perro("Firulais", "Labrador")
 mi_gato = Gato("Garfield")
 
