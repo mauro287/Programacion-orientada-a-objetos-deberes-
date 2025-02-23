@@ -43,5 +43,3 @@ class Inventario:
 
 # Ejemplo de uso
 inventario = Inventario()  # Crea un objeto Inventario. Intenta cargar el inventario desde el archivo
-
-# ... (resto del código de ejemplo sin cambios significativos)
