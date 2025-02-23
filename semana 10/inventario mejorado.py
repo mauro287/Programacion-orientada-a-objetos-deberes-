@@ -1,3 +1,4 @@
+# Mejorar el sistema de gestión de inventarios desarrollado anteriormente
 # sistema de Gestión de Inventarios Mejorado utilizando el anterior codigo
 # Importa el módulo 'os' para trabajar con archivos y rutas
 import os
